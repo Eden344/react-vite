@@ -1,7 +1,7 @@
 {
   "name": "my-ecommerce-web",
   "private": true,
-  "homepage": "https://Eden344.github.io/intertech-ecommerce",
+  "homepage": "https://Eden344.github.io/react-vite",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
